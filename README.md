@@ -2,6 +2,8 @@
 
 This program was created in python and allows you to disable / enable the Internet by pressing keys
 
+Version 1.3
+
 Py to Exe command
 ```pyinstaller --noconfirm --onefile --console  "C:/Users/Devix7/Desktop/lagSwitch.py"```
 
