@@ -4,9 +4,6 @@ This program was created in python and allows you to disable / enable the Intern
 
 Version 1.3
 
-Py to Exe command
-```pyinstaller --noconfirm --onefile --console  "C:/Users/Devix7/Desktop/lagSwitch.py"```
-
 Compiled file
 [Download LagSwitch](https://raw.githubusercontent.com/DEVIX7/LagSwitch/main/lagSwitch.exe)
 
